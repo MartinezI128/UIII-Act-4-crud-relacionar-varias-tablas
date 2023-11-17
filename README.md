@@ -14,3 +14,4 @@
 ![](https://github.com/MartinezI128/UIII-Act-4-crud-relacionar-varias-tablas/blob/main/capturas/Captura%20de%20pantalla%20(148).png)
 ![](https://github.com/MartinezI128/UIII-Act-4-crud-relacionar-varias-tablas/blob/main/capturas/Captura%20de%20pantalla%20(149).png)
 ![](https://github.com/MartinezI128/UIII-Act-4-crud-relacionar-varias-tablas/blob/main/capturas/Captura%20de%20pantalla%20(150).png)
+![](https://github.com/MartinezI128/UIII-Act-4-crud-relacionar-varias-tablas/blob/ffb3092c6e06780b65ae3116782d4252b1178470/ticket.png)
